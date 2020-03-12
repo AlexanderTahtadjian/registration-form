@@ -10,3 +10,7 @@ html {
 .label, .select {
   color: #000;
 }
+
+.padding-right {
+  padding-right: 1rem;
+}
