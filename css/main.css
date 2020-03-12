@@ -21,6 +21,12 @@ h1 {
 
 @media only screen and (min-width: 60em) {
 
+  .pad-right {
+    padding: .5rem;
+  }
 
+  .pad-left {
+    padding: .5rem;
+  }
 
 }
